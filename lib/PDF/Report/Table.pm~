@@ -4,7 +4,7 @@ package PDF::Report::Table;
 
 =head1 NAME
 
-PDF::Report::Table - Add tables to PDF::Report
+PDF::Report::Table - Adds table support to PDF::Report
 
 =head1 SYNOPSIS
 	
